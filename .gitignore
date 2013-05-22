@@ -3,6 +3,7 @@
 *.lo
 *.o
 *.svn
+*.DS_Store
 
 # Compiled Dynamic libraries
 *.so
